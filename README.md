@@ -24,11 +24,11 @@ Does formal financial inclusion reduce the pass-through of terms-of-trade shocks
 ## Repository
 - `data/`   raw and cleaned panel
 - `code/`   annotated Stata do-file
-- `output/` tables and figures
+- `output/` output/ created when the code runs (tables, figures, log)
 - `paper/`  PDF
 
 ## Replication
-Run `code/main.do` in Stata 17 or later. Requires `boottest` (`ssc install boottest`).
+From the repository root, run do code/main.do in Stata. Uncomment the ssc install lines on first run.
 
 ## Contact
 mmt2197@columbia.edu | linkedin.com/in/malik-jibran-tariq
