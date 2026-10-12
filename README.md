@@ -22,13 +22,13 @@ Does formal financial inclusion reduce the pass-through of terms-of-trade shocks
 - The bank-only effect is larger than the composite, consistent with a savings plus credit channel
 
 ## Repository
-- `data/`   raw and cleaned panel
+- `data/`   analysis panel (panel_FINAL.csv)
 - `code/`   annotated Stata do-file
-- `output/` output/ created when the code runs (tables, figures, log)
+- `output/` created when the code runs (tables, figures, log)
 - `paper/`  PDF
 
 ## Replication
-From the repository root, run do code/main.do in Stata. Uncomment the ssc install lines on first run.
+From the repository root, run `do code/main.do` in Stata. Uncomment the `ssc install` lines on first run
 
 ## Contact
 mmt2197@columbia.edu | linkedin.com/in/malik-jibran-tariq
